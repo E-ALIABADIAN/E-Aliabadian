@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Erfan Aliabadian</h1>
+<h1 align="center">Hi 👋, I'm Erfan </h1>
 <h3 align="center">Robotics Engineering MSc Student | Artificial Intelligence Enthusiast | Bio-Electronic Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e-aliabadian&label=Profile%20views&color=0e75b6&style=flat" alt="e-aliabadian" /> </p>
+- 🔭 I’m currently working on : [Tender-Scout](https://github.com/AVENTA-IT/Tender-Scout)
 
-- 🔭 I’m currently working on [Tender-Scout](https://github.com/AVENTA-IT/Tender-Scout)
+- 🌱 I’m currently learning : **Unity Game Development & Prompt Engineering**
 
-- 🌱 I’m currently learning **Unity Game Development & Prompt Engineering**
+- 💬 Ask me about : **Artificial Intelligence, Robotics, Arduino**
 
-- 💬 Ask me about **Artificial Intelligence, Robotics, Arduino**
+- 📫 How to reach me : **ealiabadian@aventa.fr**
 
-- 📫 How to reach me **ealiabadian@aventa.fr**
-
-- ⚡ Fun fact **1v1s in shooters? That’s my comfort zone.**
+- ⚡ Fun fact : **1v1s in shooters? That’s my comfort zone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
