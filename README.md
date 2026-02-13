@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan </h1>
-<h3 align="center">Software Engineer | Robotics Engineering MSc Student | AI Enthusiast | Bio-Electronic Engineer</h3>
+<h3 align="center">Software Engineer | Robotics Engineering MSc Student | AI Enthusiast </h3>
 
 - 🔭 I’m currently working on : [Tender-Scout](https://github.com/AVENTA-IT/Tender-Scout)
 
