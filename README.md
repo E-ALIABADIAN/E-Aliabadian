@@ -15,7 +15,7 @@
 I'm a **Software Engineer at [Aventa](https://aventa.fr)** and a **Robotics Engineering MSc student** at the University of Genova with a background in **Electronic & Biomedical Engineering**. I'm passionate about building intelligent systems at the intersection of **AI, robotics, and software engineering**.
 
 - 💼 Currently working as **Software Engineer** at **[Aventa](https://aventa.fr)**
-- 🔭 Currently building **[Project_Planning_Tool](https://github.com/AVENTA-IT/Project_Planning_Tool)** An AI-powered tender discovery platform
+- 🔭 Currently building **[Project_Planning_Tool](https://github.com/AVENTA-IT/Project_Planning_Tool)**, An AI-powered tender discovery platform
 - 🌱 Currently learning **Unity Game Development & Prompt Engineering**
 - 💬 Ask me about **Artificial Intelligence, Robotics, Arduino**
 - 📫 Reach me at **ealiabadian@aventa.fr**
